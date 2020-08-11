@@ -1,0 +1,18 @@
+img {
+  border-radius: 50%;
+  height: 200px;
+}
+
+html {
+  text-align: center;
+}
+
+body {
+  display: inline-block;
+  text-align: center;
+  border: 2px solid #5797ff;
+  max-width: 100%;
+  padding: 20px;
+  min-width: 50%;
+  box-shadow: 5px 5px 5px;
+}
