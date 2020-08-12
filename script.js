@@ -1,4 +1,4 @@
-var name = "Samay was here";
+var name = "Varun Jindal";
 var i = 0;
 
 function typeName() {
